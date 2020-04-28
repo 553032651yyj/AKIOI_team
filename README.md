@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤ|  [首页](https://wjq1234567.github.io/AKIOI_team/)  |ㅤㅤㅤㅤ[陶片放逐](https://wjq1234567.github.io/AKIOI_team-tpfz/)
+ㅤㅤㅤㅤㅤ|  ㅤㅤ[首页](https://wjq1234567.github.io/AKIOI_team/)  ㅤㅤ|ㅤㅤ[陶片放逐](https://wjq1234567.github.io/AKIOI_team-tpfz/)  ㅤㅤ|
 
 ## 关于此网站：
 
