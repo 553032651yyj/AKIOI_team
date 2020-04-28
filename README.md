@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+ㅤㅤㅤㅤㅤ|  [首页](https://wjq1234567.github.io/MaoguoTeam/)  ||ㅤㅤㅤㅤ
 
-You can use the [editor on GitHub](https://github.com/wjq1234567/AKIOI_team/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 关于此网站：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 此网站是[AKIOI is our dream](https://www.luogu.com.cn/team/23467)的**团队网站**。
 
-### Markdown
+- 此网站搭建日期为：2020/4/28。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 此网站不做**任何商业用途**。
 
-```markdown
-Syntax highlighted code block
+## 鸣谢：
 
-# Header 1
-## Header 2
-### Header 3
+- @wjq1234567：提供搭建平台&负责搭建&后期维护
 
-- Bulleted
-- List
+## 友情链接：
 
-1. Numbered
-2. List
+- 暂无
 
-**Bold** and _Italic_ and `Code` text
+## 其他：
+- 团队QQ群：1081505411
 
-[Link](url) and ![Image](src)
-```
+------------------------------------------
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wjq1234567/AKIOI_team/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<center>目前网站维护中，维护者：wjq1234567</center>
+ㅤ
