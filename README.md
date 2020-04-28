@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤ|  [首页](https://wjq1234567.github.io/MaoguoTeam/)  ||ㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤ|  [首页](https://wjq1234567.github.io/AKIOI_team/)  |ㅤㅤㅤㅤ
 
 ## 关于此网站：
 
