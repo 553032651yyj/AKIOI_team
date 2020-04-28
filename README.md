@@ -15,18 +15,18 @@
 ## 合作团队：
 
 ## **FriendLine l**（强烈推荐） 
-[![](https://img.shields.io/badge/洛谷-一往无前-34495E.svg?colorA=3498DB&style=flat-square)](https://www.luogu.com.cn/team/22867)
-[![](https://img.shields.io/badge/洛谷-「Thomas_Catの小屋」-34495E.svg?colorA=3498DB&style=flat-square)](https://www.luogu.com.cn/team/25417)
-[![](https://img.shields.io/badge/洛谷-蒟蒻膜拜团-34495E.svg?colorA=3498DB&style=flat-square)](https://www.luogu.com.cn/team/21078)
-[![](https://img.shields.io/badge/洛谷-WLYX官方出题团-34495E.svg?colorA=3498DB&style=flat-square)](https://www.luogu.com.cn/team/26458)
-[![](https://img.shields.io/badge/洛谷-「宇宙の编程小屋」-34495E.svg?colorA=3498DB&style=flat-square)](https://www.luogu.com.cn/team/26626)
-[![](https://img.shields.io/badge/洛谷-猫国建设者-34495E.svg?colorA=3498DB&style=flat-square)](https://www.luogu.com.cn/team/23467)
+[一往无前](https://www.luogu.com.cn/team/22867)
+[「Thomas_Catの小屋」](https://www.luogu.com.cn/team/25417)
+[蒟蒻膜拜团](https://www.luogu.com.cn/team/21078)
+[WLYX官方出题团](https://www.luogu.com.cn/team/26458)
+[「宇宙の编程小屋」](https://www.luogu.com.cn/team/26626)
+[猫国建设者-讨论群](https://www.luogu.com.cn/team/23467)
 
 ### **FriendLine ll** （正常推荐）
 
-[![](https://img.shields.io/badge/洛谷-XSLM官方团队-34495E.svg?colorA=3498DB&style=flat-square)](https://www.luogu.com.cn/team/25191)
-[![](https://img.shields.io/badge/洛谷-TXWS官方团队-34495E.svg?colorA=3498DB&style=flat-square)](https://www.luogu.com.cn/team/25549)
-[![](https://img.shields.io/badge/洛谷-蒟蒻的栖息地-34495E.svg?colorA=3498DB&style=flat-square)](https://www.luogu.com.cn/team/26065)
+[XSLM官方团队](https://www.luogu.com.cn/team/25191)
+[TXWS官方团队](https://www.luogu.com.cn/team/25549)
+[蒟蒻的栖息地](https://www.luogu.com.cn/team/26065)
 
 
 ## 其他：
